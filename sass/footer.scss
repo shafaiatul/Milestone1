@@ -1,0 +1,26 @@
+
+#footer{
+	background: rgb(40, 54, 69);
+	color: #999999;
+	padding: 4px 15%;
+	a{
+		color: #999999;
+		padding: 0 2.5px;
+	}
+
+	p{	
+		position: absolute;
+		z-index: 1;
+		
+	}
+	ul{
+		float: right;
+
+		li{
+
+			float: left;
+			display: inline;
+		}
+	}
+
+}

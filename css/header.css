@@ -1,0 +1,81 @@
+/* line 3, ../sass/header.scss */
+.header {
+  width: 100%;
+  display: block;
+  margin: 0;
+}
+/* line 7, ../sass/header.scss */
+.header a {
+  color: #5a728c;
+}
+/* line 12, ../sass/header.scss */
+.header .upper_nav {
+  background-color: #f5f7fa;
+  color: #5a728c;
+  display: inline-block;
+  font-size: 12px;
+  width: inherit;
+}
+/* line 19, ../sass/header.scss */
+.header .upper_nav .contact {
+  float: left;
+  margin-left: 180px;
+}
+/* line 23, ../sass/header.scss */
+.header .upper_nav .contact li {
+  display: inline-block;
+}
+/* line 26, ../sass/header.scss */
+.header .upper_nav .contact li img {
+  width: 10px;
+}
+/* line 31, ../sass/header.scss */
+.header .upper_nav .contact li:nth-child(3) {
+  padding-left: 20px;
+}
+/* line 35, ../sass/header.scss */
+.header .upper_nav .social {
+  float: right;
+  margin-right: 200px;
+}
+/* line 39, ../sass/header.scss */
+.header .upper_nav .social li {
+  display: inline-block;
+}
+/* line 44, ../sass/header.scss */
+.header .upper_nav .social li img {
+  width: 10px;
+  padding-left: 10px;
+}
+/* line 56, ../sass/header.scss */
+.header .main_nav {
+  background-color: #ffffff;
+  display: inline-block;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* line 65, ../sass/header.scss */
+.header .main_nav h1 img {
+  width: 160px;
+  margin-left: 220px;
+  margin-top: 20px;
+}
+/* line 72, ../sass/header.scss */
+.header .main_nav nav ul li {
+  position: relative;
+  float: left;
+  padding-left: 20px;
+  font-weight: bold;
+  font-size: 15px;
+  top: -50px;
+  left: 400px;
+}
+/* line 81, ../sass/header.scss */
+.header .main_nav nav ul li a {
+  color: #506a85;
+}
+/* line 85, ../sass/header.scss */
+.header .main_nav nav ul li img {
+  width: 10px;
+  padding-left: 60px;
+}

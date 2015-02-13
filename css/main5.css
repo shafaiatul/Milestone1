@@ -1,0 +1,113 @@
+/* line 1, ../sass/main5.scss */
+.main5 {
+  background-color: #2f4052;
+  color: #ffffff;
+  font-size: 14px;
+  font-family: 'Myriad Pro', Helvetica, Arial, sans-serif;
+  color: #999999;
+  max-height: 400px;
+}
+/* line 10, ../sass/main5.scss */
+.main5 .main_wrap {
+  padding: 5%;
+}
+/* line 14, ../sass/main5.scss */
+.main5 .main_wrap .first {
+  position: relative;
+  top: -110px;
+}
+/* line 17, ../sass/main5.scss */
+.main5 .main_wrap .first .more_link {
+  color: #999999;
+  margin-right: 12px;
+}
+/* line 23, ../sass/main5.scss */
+.main5 .main_wrap .second {
+  position: relative;
+  top: -20px;
+}
+/* line 28, ../sass/main5.scss */
+.main5 .main_wrap .third {
+  position: relative;
+  bottom: 50px;
+}
+/* line 31, ../sass/main5.scss */
+.main5 .main_wrap .third .address .bottom-mail {
+  color: #999999;
+}
+/* line 35, ../sass/main5.scss */
+.main5 .main_wrap .fourth {
+  position: relative;
+  top: -180px;
+}
+/* line 39, ../sass/main5.scss */
+.main5 .main_wrap .second img {
+  position: relative;
+  left: -40px;
+  padding-left: .5px;
+  padding-right: .5px;
+  width: 50%;
+}
+/* line 48, ../sass/main5.scss */
+.main5 .main_wrap .second ul li {
+  padding-bottom: 4px;
+}
+/* line 51, ../sass/main5.scss */
+.main5 .main_wrap .second ul li:nth-child(3), .main5 .main_wrap .second ul li:nth-child(4) {
+  position: relative;
+  left: 105px;
+  bottom: 145px;
+}
+/* line 57, ../sass/main5.scss */
+.main5 .main_wrap .third .address {
+  position: relative;
+  right: 80px;
+}
+/* line 62, ../sass/main5.scss */
+.main5 .main_wrap .third .address ul li p {
+  position: relative;
+  left: 20px;
+  bottom: 32px;
+}
+/* line 67, ../sass/main5.scss */
+.main5 .main_wrap .third .address ul li {
+  margin-bottom: -30px;
+}
+/* line 70, ../sass/main5.scss */
+.main5 .main_wrap .fourth input[type="email"] {
+  width: 270px;
+  height: 40px;
+  background-color: #4e5c6c;
+  color: #121f2b;
+  font-size: 14px;
+  font-weight: normal;
+  border-radius: 5px;
+  border: none;
+  text-indent: 6px;
+}
+/* line 81, ../sass/main5.scss */
+.main5 .main_wrap .fourth input[type="submit"] {
+  width: 98px;
+  height: 32px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #00bc9c;
+  border-radius: 5px;
+  border: none;
+  position: absolute;
+  z-index: 1;
+  left: 165px;
+  bottom: 19px;
+}
+/* line 98, ../sass/main5.scss */
+.main5 .main_wrap .first, .main5 .main_wrap .second, .main5 .main_wrap .third, .main5 .main_wrap .fourth {
+  display: inline-block;
+  width: 20%;
+  margin-right: 1.5%;
+  margin-left: 1.5%;
+}
+/* line 103, ../sass/main5.scss */
+.main5 .main_wrap .first h4, .main5 .main_wrap .second h4, .main5 .main_wrap .third h4, .main5 .main_wrap .fourth h4 {
+  color: #ffffff;
+}

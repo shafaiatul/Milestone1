@@ -1,0 +1,64 @@
+/* line 1, ../sass/main2.scss */
+.main2 {
+  background-color: #ffffff;
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 110px;
+  box-sizing: border-box;
+}
+/* line 8, ../sass/main2.scss */
+.main2 header {
+  display: inline-block;
+}
+/* line 10, ../sass/main2.scss */
+.main2 header h2 {
+  display: block;
+  text-align: center;
+  font-size: 44px;
+  color: #5a728c;
+  font-weight: normal;
+  margin: 125px 220px 40px 220px;
+}
+/* line 19, ../sass/main2.scss */
+.main2 header p {
+  display: block;
+  text-align: center;
+  color: #73879c;
+  font-size: 22px;
+  margin: 0 245px 80px 245px;
+}
+/* line 27, ../sass/main2.scss */
+.main2 ul {
+  margin-left: 12%;
+  margin-right: 12%;
+}
+/* line 31, ../sass/main2.scss */
+.main2 ul li {
+  width: 20%;
+  display: inline-block;
+  margin-right: 1%;
+  margin-left: 65px;
+}
+/* line 36, ../sass/main2.scss */
+.main2 ul li img {
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  z-index: 1;
+}
+/* line 42, ../sass/main2.scss */
+.main2 ul li h3 {
+  position: relative;
+  font-size: 26px;
+  color: #5a728c;
+  left: 75px;
+  top: -20px;
+}
+/* line 49, ../sass/main2.scss */
+.main2 ul li p {
+  position: relative;
+  font-size: 16px;
+  color: #73879c;
+  left: 75px;
+  top: -20px;
+}

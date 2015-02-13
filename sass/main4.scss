@@ -1,0 +1,39 @@
+.main4{
+	width: 60%;
+	margin: auto;
+	
+
+
+	.wrap{
+		background-color: #ffffff;
+		padding: 12% 6%;
+			h2{
+				color: rgb(90,114,140);
+				font-size: 44px;
+				font-weight: normal;
+				text-align: center;
+
+			}
+			p{
+				font-size: 22px;
+				color: rgb(115,135,156);
+				text-align: center;
+				padding-bottom: 4%;
+					.submit{
+						background-color: rgb(0, 188, 156);
+						font-family: 'Myriad Pro', Helvetica, Arial, sans-serif;
+						color: #ffffff;
+						text-transform: uppercase;
+						font-size: 15px;
+						font-weight: bold;
+						width: 150px;
+						height: 50px;
+						border-radius: 4%;
+						border: none;
+						box-shadow: 0px 2px rgb(0, 188, 156);
+				}
+				
+			}
+
+	}
+}

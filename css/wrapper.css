@@ -1,0 +1,24 @@
+/* line 3, ../sass/wrapper.scss */
+#wrapper {
+  background-color: #fff;
+  text-align: left;
+  margin: 0 auto;
+  font-family: 'Myriad Pro', Helvetica, Arial, sans-serif;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+/* line 12, ../sass/wrapper.scss */
+a {
+  text-decoration: none;
+}
+
+/* line 15, ../sass/wrapper.scss */
+img {
+  max-width: 100%;
+}
+
+/* line 18, ../sass/wrapper.scss */
+li {
+  list-style: none;
+}

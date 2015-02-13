@@ -1,0 +1,112 @@
+.main5{
+	background-color: rgb(47, 64, 82);
+	color: #ffffff;
+	font-size: 14px;
+	font-family: 'Myriad Pro', Helvetica, Arial, sans-serif;
+	color: #999999;
+	max-height: 400px;
+
+
+	.main_wrap{
+		padding:  5%;
+		
+		
+		.first{
+			position: relative;
+			top: -110px;
+				.more_link{
+					color: #999999;
+					margin-right: 12px;
+				}
+		}
+		
+		.second{
+			position: relative;
+			top: -20px;
+
+		}
+		.third{
+			position: relative;
+			bottom: 50px;
+			.address .bottom-mail{
+				color: #999999;
+			}
+		}
+		.fourth{
+			position: relative;
+			top: -180px;
+		}
+		.second img{
+			
+			position: relative;
+			left: -40px;
+			padding-left: .5px;
+			padding-right: .5px;
+			width: 50%;
+		
+		}
+		.second ul li{
+			padding-bottom: 4px;
+		}
+		.second ul li:nth-child(3), .second ul li:nth-child(4){
+			position: relative;
+			left: 105px;
+			bottom: 145px;
+
+		}
+		.third .address{
+			position: relative;
+			right: 80px;
+
+		}
+		.third .address ul li p{
+			position: relative;
+			left: 20px;
+			bottom: 32px;
+		}
+		.third .address ul li{
+			margin-bottom: -30px;
+		}
+		.fourth input[type="email"]	{
+			width: 270px;
+			height: 40px;
+			background-color: rgb(78, 92, 108);
+			color: rgb(18, 31, 43);
+			font-size: 14px;
+			font-weight: normal;
+			border-radius: 5px;
+			border: none;
+			text-indent: 6px;
+		}
+		.fourth input[type="submit"]	{
+			width: 98px;
+			height: 32px;
+			font-size: 15px;
+			font-weight: bold;
+			color: #ffffff;
+			background-color: rgb(0, 188, 156);
+			border-radius: 5px;
+			border: none;
+			position: absolute;
+			z-index: 1;
+			left: 165px;
+			bottom: 19px;
+			
+		}
+
+
+		.first, .second, .third, .fourth{
+			display: inline-block;
+			width: 20%;
+			margin-right: 1.5%;
+			margin-left: 1.5%;
+			h4{
+				color: #ffffff;
+			}
+			
+		}
+
+		
+	}
+
+}

@@ -1,0 +1,25 @@
+/* line 2, ../sass/footer.scss */
+#footer {
+  background: #283645;
+  color: #999999;
+  padding: 4px 15%;
+}
+/* line 6, ../sass/footer.scss */
+#footer a {
+  color: #999999;
+  padding: 0 2.5px;
+}
+/* line 11, ../sass/footer.scss */
+#footer p {
+  position: absolute;
+  z-index: 1;
+}
+/* line 16, ../sass/footer.scss */
+#footer ul {
+  float: right;
+}
+/* line 19, ../sass/footer.scss */
+#footer ul li {
+  float: left;
+  display: inline;
+}
